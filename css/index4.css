@@ -32,6 +32,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color:navajowhite;
 }
 .prof-right p {
     font-size: 20px;
@@ -46,13 +47,12 @@ section {
     width: 140px;
     height: 140px;
     border-radius: 50%;
-    background: url(./img/いろいろ2_191108_0017.jpg);
-    background-size:cover;
+    background: url(../img/いろいろ2_191108_0015.jpg);
+    
 }
 .box1 {
     width: 100%;
     height: 500px;
-    background-color:rgb(217, 243, 239);
     display: flex;
    justify-content: center;
 }
@@ -68,35 +68,36 @@ section {
     justify-content: center;
 }
 .right-image {
-  background-image: url(./img/いろいろ2_191108_0004.jpg);
+  background-image: url(../img/いれいろ_191107_0001.jpg);
   width: 400px;
   background-size: cover;
 }
 .left-image {
     width: 400px;
-    background-image: url(./img/いれいろ_191107_0030.jpg);
+    background-image: url(../img/いれいろ_191107_0033.jpg);
     background-size: cover;
+    
 }
 .box2 {
     width: 100%;
     height: 500px;
     display: flex;
    justify-content: center;
+   background-color:navajowhite;
 }
 .right-image2 {
     width: 400px;
-    background-image: url(./img/いれいろ_191107_0034.jpg);
+    background-image: url(../img/いれいろ_191107_0043.jpg);
     background-size: cover;
 }
 .left-image2 {
     width: 400px;
-    background-image: url(./img/いれいろ_191107_0002.jpg);
+    background-image: url(../img/いれいろ_191107_0010.jpg);
     background-size: cover;
 }
 footer{
     width:100%;
     height: 100px;
-    background-color: rgb(217, 243, 239);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -135,4 +136,7 @@ footer{
         font-size: 10px;
     }
     }
+
+
+
 
